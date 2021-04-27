@@ -1,4 +1,5 @@
-﻿#include <windows.h>
+﻿//20318 최윤기
+#include <windows.h>
 #include <iostream>
 #include <random>
 #include <time.h>
